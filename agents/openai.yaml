@@ -1,0 +1,4 @@
+interface:
+  display_name: "3D-Outline-Edits"
+  short_description: "Edits aus Musik und Thema mit 3D, Shake und Code-Text"
+  default_prompt: "Nutze $outline-edits für einen Edit zu meinem Thema mit meiner Musik; entwickle Bildfolge, Texte und Bewegungen selbstständig."
